@@ -1,0 +1,1 @@
+"use strict";$(function(){$("#datatable-1").DataTable({ajax:"http://nasrul.dev/api/datatables/api.json",deferRender:!0,scrollCollapse:!0,scrollY:300,scroller:!0})});
